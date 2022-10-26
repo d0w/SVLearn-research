@@ -5,9 +5,9 @@ This repo is a composite of the main scripts used to create models for the paper
 Scripts for creating the data, training neural networks, and some data analysis is included. Though, this repository does not include code that was used 
 for data-analysis in the paper, but has the essential models that were used experimentally to predict the singular-value-decomposition. 
 
-``cifar-10.ipynb`` - Creates grayscale datasets based on CIFAR-10 images and trains a model using its corresponding SVD
-``uci-training.ipynb`` - Does the same except with UCI's Spambase dataset
-``poormans-svd.ipynb`` and ``poormans-svd-cifar.ipynb`` - Compares different methods in extrapolating the SVD in which our models were tested against
+``cifar-10.ipynb`` - Creates grayscale datasets based on CIFAR-10 images and trains a model using its corresponding SVD\
+``uci-training.ipynb`` - Does the same except with UCI's Spambase dataset\
+``poormans-svd.ipynb`` and ``poormans-svd-cifar.ipynb`` - Compares different methods in extrapolating the SVD in which our models were tested against\
 
 
 ## Abstract
