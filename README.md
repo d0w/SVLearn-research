@@ -1,7 +1,7 @@
 # SV-Learn: Learning Matrix Singular Values with Neural Networks
 
 ## About
-This repo is a composite of the main scripts used to create models for the paper [Sv-Learn](https://drive.google.com/file/d/1CLOnAWVZuEJ94K2RwGhfDmfCUmXGySEh/view).
+This repo is a composite of the main scripts used to create models for the paper [Sv-Learn](https://ieeexplore.ieee.org/document/10031050).
 Scripts for creating the data, training neural networks, and some data analysis is included. Though, this repository does not include code that was used 
 for data-analysis in the paper, but has the essential models that were used experimentally to predict the singular-value-decomposition. 
 
